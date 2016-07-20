@@ -1,0 +1,8 @@
+{
+  "name": "responsive-picker",
+  "version": "1.0.0",
+  "description": "A responsive colour picker (jQuery plugin)",
+  "devDependencies": {
+    "livereload": "^0.4.1"
+  }
+}
